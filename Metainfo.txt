@@ -1,0 +1,17 @@
+Name of QuantLet : Wellisch_SRMfig2.16
+
+Published in : 
+
+Description : 'Plots Normal Quantile-Quantile Plot and Exponential Quantile-Quantile Plot, and compares both of them.'
+
+Keywords : 'plot, Quantile, Normal distribution, Quantile-Quantile, Exponential distribution, visualization'
+
+See also : 
+
+Author : Wellisch
+
+Submitted :
+
+Datafile : 
+
+Example :
